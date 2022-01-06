@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("finished user moudle!");
         System.out.println("finished brand moudle!");
         System.out.println("finished advertise moudle!");
+        System.out.println("modifyed advertise moudle by hot fix!");
     }
 }
