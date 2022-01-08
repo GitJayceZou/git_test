@@ -11,5 +11,6 @@ public class TestGit {
         System.out.println("finished class moudle!");
         System.out.println("finished spec moudle!");
         System.out.println("finished goods moudle!");
+        System.out.println("finished log moudle!");
     }
 }
