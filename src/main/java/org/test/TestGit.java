@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("modifyed advertise moudle by hot fix!");
         System.out.println("finished class moudle!");
         System.out.println("finished spec moudle!");
+        System.out.println("finished goods moudle!");
     }
 }
