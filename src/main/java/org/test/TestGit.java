@@ -13,5 +13,6 @@ public class TestGit {
         System.out.println("finished goods moudle!");
         System.out.println("finished log moudle!");
         System.out.println("test sync!");
+        System.out.println("test again sync!");
     }
 }
